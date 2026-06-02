@@ -96,13 +96,8 @@ const bodyHtml = `
           <div class="ht"><b>QLD</b><span>Approved Centre</span></div>
         </div>
       </div>
-      <div class="ph hero-photo">
-        <span class="corner tl"></span><span class="corner br"></span>
-        <span class="ph-label">
-          <svg class="pi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M5 17h14M5 17a2 2 0 0 1-2-2v-3l2-5a2 2 0 0 1 2-1h10a2 2 0 0 1 2 1l2 5v3a2 2 0 0 1-2 2M5 17v2M19 17v2"/><circle cx="7.5" cy="14.5" r="1.5"/><circle cx="16.5" cy="14.5" r="1.5"/></svg>
-          <span class="ph-tag">[ Hero Photo ]</span>
-          Inspector with tablet checking a vehicle in a customer driveway
-        </span>
+      <div class="hero-photo-wrap">
+        <img src="/assets/heroimage.png" alt="Victory Auto & Inspections — mechanic inspecting a vehicle on a hoist" class="hero-img">
       </div>
     </div>
   </div>
@@ -112,13 +107,8 @@ const bodyHtml = `
 <section class="section" id="about">
   <div class="wrap">
     <div class="about-grid">
-      <div class="ph light reveal">
-        <span class="corner tl"></span><span class="corner br"></span>
-        <span class="ph-label">
-          <svg class="pi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M14 9V5a3 3 0 0 0-6 0v4"/><rect x="3" y="9" width="18" height="12" rx="2"/><circle cx="12" cy="15" r="2"/></svg>
-          <span class="ph-tag">[ About Photo ]</span>
-          Owner / inspector beside branded mobile inspection van
-        </span>
+      <div class="about-logo-wrap reveal">
+        <img src="/assets/victory-logo.png" alt="Victory Auto &amp; Inspections" class="about-logo-img">
       </div>
       <div class="reveal" data-delay="100">
         <span class="eyebrow">About Victory Auto</span>
@@ -317,13 +307,12 @@ const bodyHtml = `
         </div>
         <p style="margin-top:24px;color:var(--muted-light);font-size:.95rem">Not sure if we cover your suburb? <a href="/contact" style="color:var(--red-bright);font-weight:600">Get in touch</a> — chances are we do.</p>
       </div>
-      <div class="ph reveal" data-delay="100">
-        <span class="corner tl"></span><span class="corner br"></span>
-        <span class="ph-label">
-          <svg class="pi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-          <span class="ph-tag">[ Map Graphic ]</span>
-          Map of South-East Queensland service radius
-        </span>
+      <div class="areas-map reveal" data-delay="100">
+        <iframe
+          title="Victory Auto &amp; Inspections service area map"
+          src="https://www.google.com/maps?q=Logan+Village+QLD+4207+Australia&output=embed"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
   </div>
