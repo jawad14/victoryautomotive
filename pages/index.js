@@ -75,24 +75,24 @@ const bodyHtml = `
   <div class="wrap">
     <div class="hero-grid">
       <div>
-        <span class="eyebrow light">Approved Inspection Centre · Logan Village QLD</span>
-        <h1>Roadworthy &amp; Safety <span class="hl">Inspections</span> Done Right.</h1>
-        <p class="lead">Professional, approved vehicle inspections for cars, caravans and trailers across South-East Queensland. Fast, honest and hassle-free.</p>
+        <span class="eyebrow light">Auto Services · Mechanical Work · On-Site Inspections</span>
+        <h1>Your Local <span class="hl">Auto Experts</span> — Built Around You.</h1>
+        <p class="lead">Victory Auto &amp; Inspections delivers full mechanical services, auto repairs and approved on-site vehicle inspections across South-East Queensland. Professional, reliable and on your schedule.</p>
         <div class="hero-cta">
           <a href="/contact" class="btn btn-primary btn-lg">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
-            Book an Inspection
+            Book a Service
           </a>
           <a href="tel:0416146737" class="btn btn-outline-light btn-lg">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92Z"/></svg>
             Call Now
           </a>
-          <a href="/contact" class="btn btn-dark btn-lg">Get a Safety Certificate</a>
+          <a href="/contact" class="btn btn-dark btn-lg">Get a Free Quote</a>
         </div>
         <div class="hero-trust">
           <div class="ht"><b><span data-count="4.9" data-dec="1">4.9</span>&#9733;</b><span>Google Rated</span></div>
           <div class="ht"><b><span data-count="25" data-suffix="+">25+</span></b><span>Years Experience</span></div>
-          <div class="ht"><b><span data-count="100" data-suffix="%">100%</span></b><span>Mobile Service</span></div>
+          <div class="ht"><b>Full</b><span>Mechanical Work</span></div>
           <div class="ht"><b>QLD</b><span>Approved Centre</span></div>
         </div>
       </div>
@@ -113,20 +113,20 @@ const bodyHtml = `
       <div class="reveal" data-delay="100">
         <span class="eyebrow">About Victory Auto</span>
         <h2 class="display" style="font-size:clamp(2rem,3.6vw,2.9rem);margin:14px 0 18px">A Family-Run Team With 25+ Years On The Tools</h2>
-        <p class="lead" style="font-size:1.1rem;color:var(--muted)">LONGTREND PTY LTD, trading as Victory Auto &amp; Inspections, is a family-run, approved inspection centre with more than 25 years of automotive experience. We provide professional and reliable vehicle inspection services across Queensland — whether it's a car, caravan, trailer or other motor machine, our licensed inspectors deliver thorough, honest assessments wherever you are.</p>
-        <p style="margin-top:14px;color:var(--muted)">We built Victory on a simple promise: certified inspections without the hassle. No towing, no waiting rooms, no wasted days. We bring the inspection centre to your home, workplace or storage yard and get you the paperwork you need to sell, register or stay road-legal.</p>
+        <p class="lead" style="font-size:1.1rem;color:var(--muted)">Victory Auto &amp; Inspections is a family-run automotive business with over 25 years of hands-on experience. We offer full mechanical repairs, auto servicing and approved on-site vehicle inspections — all delivered with honesty, quality and care.</p>
+        <p style="margin-top:14px;color:var(--muted)">Whether you need a routine service, a mechanical repair, a safety certificate or a roadworthy inspection, our experienced team has you covered. We work around your schedule and come to you wherever possible.</p>
         <div class="about-points">
           <div class="about-point">
             <span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></span>
-            <div><b>25+ Years Experience</b><span>Family-run, trusted local know-how</span></div>
+            <div><b>Full Mechanical Work</b><span>Repairs, servicing &amp; diagnostics</span></div>
           </div>
           <div class="about-point">
             <span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></span>
-            <div><b>We Come To You</b><span>Fully mobile across South-East QLD</span></div>
+            <div><b>On-Site Inspections</b><span>We come to your home or workplace</span></div>
           </div>
           <div class="about-point">
             <span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></span>
-            <div><b>Honest &amp; Thorough</b><span>Detailed checks, clear reporting</span></div>
+            <div><b>Honest &amp; Transparent</b><span>Clear quotes, no hidden charges</span></div>
           </div>
           <div class="about-point">
             <span class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"/></svg></span>
@@ -134,7 +134,7 @@ const bodyHtml = `
           </div>
         </div>
         <div style="margin-top:30px;display:flex;gap:14px;flex-wrap:wrap">
-          <a href="/contact" class="btn btn-primary">Book Your Inspection</a>
+          <a href="/contact" class="btn btn-primary">Book a Service</a>
           <a href="/#services" class="btn btn-ghost">View Services</a>
         </div>
       </div>
@@ -147,45 +147,45 @@ const bodyHtml = `
 <section class="section" id="services" style="background:#fff">
   <div class="wrap">
     <div class="shead center reveal">
-      <span class="eyebrow center">What We Inspect</span>
-      <h2 class="display" style="margin-top:14px">Services Offered</h2>
-      <p class="lead mx-auto" style="color:var(--muted)">Approved inspections and certificates for every vehicle in your driveway — all delivered on-site, on your schedule.</p>
+      <span class="eyebrow center">What We Do</span>
+      <h2 class="display" style="margin-top:14px">Auto Services &amp; Inspections</h2>
+      <p class="lead mx-auto" style="color:var(--muted)">From mechanical repairs to on-site vehicle inspections — we handle it all across South-East Queensland.</p>
     </div>
     <div class="svc-grid">
       <article class="svc-card reveal">
-        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 13l1.5-4.5A2 2 0 0 1 8.4 7h7.2a2 2 0 0 1 1.9 1.5L19 13m-14 0h14m-14 0v4m14-4v4M7 17h0m10 0h0"/><circle cx="7" cy="17" r="1"/><circle cx="17" cy="17" r="1"/></svg></div>
-        <h3>Car Safety Certificates</h3>
-        <p>Queensland Safety Certificates (formerly roadworthy) for cars and light vehicles — required to sell or re-register your vehicle.</p>
-        <a href="/contact" class="more">Book now <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
+        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14.7 6.3a4 4 0 0 1 0 5.4l-8 8a2 2 0 0 1-2.8-2.8l8-8a4 4 0 0 1 5.4 0z"/><path d="M6 18l-2 2"/><path d="m18 2 2 2-9 9"/></svg></div>
+        <h3>Mechanical Repairs</h3>
+        <p>Full mechanical repairs for all makes and models — engine, transmission, cooling, electrical and more. Diagnosed and fixed right the first time.</p>
+        <a href="/contact" class="more">Get a quote <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
       </article>
       <article class="svc-card reveal" data-delay="80">
-        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 16V8a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v8m-15 0h15m-15 0v2m15-2 2-3v-3l-2-1m0 7v2"/><circle cx="8" cy="18" r="1.6"/></svg></div>
-        <h3>Caravan Inspections</h3>
-        <p>Comprehensive caravan safety inspections covering chassis, brakes, coupling, lights and gas compliance before you hit the road.</p>
+        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 13l1.5-4.5A2 2 0 0 1 8.4 7h7.2a2 2 0 0 1 1.9 1.5L19 13m-14 0h14m-14 0v4m14-4v4M7 17h0m10 0h0"/><circle cx="7" cy="17" r="1"/><circle cx="17" cy="17" r="1"/></svg></div>
+        <h3>Auto Servicing</h3>
+        <p>Logbook and general servicing including oil changes, filters, brakes, belts and full safety checks to keep your vehicle running at its best.</p>
         <a href="/contact" class="more">Book now <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
       </article>
       <article class="svc-card reveal" data-delay="160">
-        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="9" width="14" height="7" rx="1"/><path d="M16 12h3l3 2v2h-6"/><circle cx="7" cy="18" r="1.6"/><circle cx="18" cy="18" r="1.6"/></svg></div>
-        <h3>Caravan Trailer Inspections</h3>
-        <p>Trailer and caravan-trailer checks for safe towing — wheel bearings, suspension, electrical and load-rating compliance.</p>
+        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M12 1v4M12 19v4M4.22 4.22l2.83 2.83M16.95 16.95l2.83 2.83M1 12h4M19 12h4M4.22 19.78l2.83-2.83M16.95 7.05l2.83-2.83"/></svg></div>
+        <h3>Brake &amp; Suspension</h3>
+        <p>Brake pad and rotor replacements, suspension checks, wheel alignments and steering repairs for a safe, smooth drive.</p>
         <a href="/contact" class="more">Book now <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
       </article>
       <article class="svc-card reveal">
         <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M9 12l2 2 4-4"/><path d="M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6l7-3Z"/></svg></div>
-        <h3>Roadworthy Certificates</h3>
-        <p>Full roadworthy inspections to confirm your vehicle meets all Queensland safety standards — issued on the spot when it passes.</p>
+        <h3>Safety Certificates &amp; Roadworthy</h3>
+        <p>Approved Queensland Safety Certificates and roadworthy inspections for cars, caravans and trailers — issued on the spot when you pass.</p>
         <a href="/contact" class="more">Book now <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
       </article>
       <article class="svc-card reveal" data-delay="80">
         <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></div>
-        <h3>Mobile Inspection Service</h3>
-        <p>We bring the inspection centre to you — home, work or storage yard, anywhere across our South-East Queensland service area.</p>
+        <h3>On-Site Inspections</h3>
+        <p>We come to your home, workplace or storage yard for vehicle inspections — cars, caravans and trailers inspected right where they sit.</p>
         <a href="/contact" class="more">Book now <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
       </article>
       <article class="svc-card reveal" data-delay="160">
-        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2 4 6v6c0 4.5 3.5 8.5 8 10 4.5-1.5 8-5.5 8-10V6l-8-4Z"/><path d="M8 12l2.5 2.5L16 9"/></svg></div>
-        <h3>Approved Inspection Centre</h3>
-        <p>As a licensed and approved centre, we're authorised to carry out and certify a full range of motor-vehicle inspections.</p>
+        <div class="svc-ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="9" width="14" height="7" rx="1"/><path d="M16 12h3l3 2v2h-6"/><circle cx="7" cy="18" r="1.6"/><circle cx="18" cy="18" r="1.6"/></svg></div>
+        <h3>Caravan &amp; Trailer Services</h3>
+        <p>Mechanical checks, safety inspections and certificates for caravans and trailers — covering chassis, brakes, coupling, lights and compliance.</p>
         <a href="/contact" class="more">Book now <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a>
       </article>
     </div>
@@ -197,28 +197,28 @@ const bodyHtml = `
     <div class="shead center reveal">
       <span class="eyebrow light center">The Victory Difference</span>
       <h2 class="display" style="margin-top:14px;color:#fff">Why Choose Us</h2>
-      <p class="lead mx-auto" style="color:#B7AFA4">Drivers across Logan, Brisbane and the Gold Coast trust Victory for inspections done right — the first time.</p>
+      <p class="lead mx-auto" style="color:#B7AFA4">Customers across Logan, Brisbane and the Gold Coast trust Victory for auto services and inspections done right — every time.</p>
     </div>
     <div class="why-grid">
       <div class="why-card reveal">
         <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 2 4 6v6c0 4.5 3.5 8.5 8 10 4.5-1.5 8-5.5 8-10V6l-8-4Z"/><path d="M9 12l2 2 4-4"/></svg></span>01</div>
         <h3>Licensed &amp; Approved</h3>
-        <p>An officially approved inspection service, authorised to issue safety and roadworthy certificates with confidence.</p>
+        <p>Fully licensed mechanics and an approved QLD inspection centre — authorised to carry out repairs and issue safety certificates.</p>
       </div>
       <div class="why-card reveal" data-delay="70">
-        <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 16V8a2 2 0 0 1 2-2h9v10m0 0h5l1-3v-2l-3-1m-3 6h-12"/><circle cx="8" cy="18" r="1.7"/><circle cx="18" cy="18" r="1.7"/></svg></span>02</div>
-        <h3>Mobile Service</h3>
-        <p>We come to your location with everything we need. No towing, no driving across town — total convenience.</p>
+        <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14.7 6.3a4 4 0 0 1 0 5.4l-8 8a2 2 0 0 1-2.8-2.8l8-8a4 4 0 0 1 5.4 0z"/><path d="M6 18l-2 2"/></svg></span>02</div>
+        <h3>Full Mechanical Work</h3>
+        <p>From minor services to major repairs — our experienced mechanics handle everything with skill and the right tools for the job.</p>
       </div>
       <div class="why-card reveal" data-delay="140">
         <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 16 14"/></svg></span>03</div>
         <h3>Fast &amp; Reliable</h3>
-        <p>Punctual appointments and efficient inspections. Most certificates are issued on the spot the moment you pass.</p>
+        <p>Punctual, efficient and straight to the point. We respect your time and get the job done without unnecessary delays.</p>
       </div>
       <div class="why-card reveal">
-        <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M14.7 6.3a4 4 0 0 1 0 5.4l-1.4 1.4M9.3 17.7a4 4 0 0 1 0-5.4M3 21l3-3m0 0 4-4m-4 4-2-2m16-10 2-2m0 0L20 2"/><rect x="9" y="9" width="6" height="6" rx="1" transform="rotate(45 12 12)"/></svg></span>04</div>
-        <h3>Professional &amp; Affordable</h3>
-        <p>Experienced inspectors, premium-grade service and fair, upfront pricing that won't blow out your budget.</p>
+        <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg></span>04</div>
+        <h3>On-Site Service</h3>
+        <p>We bring the tools to you for inspections and on-site work — no towing, no hassle, right at your location.</p>
       </div>
       <div class="why-card reveal" data-delay="70">
         <div class="wn"><span class="wic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/><path d="M9 16l2 2 4-4"/></svg></span>05</div>
@@ -255,7 +255,7 @@ const bodyHtml = `
       <div>
         <span class="eyebrow">Rated By Real Customers</span>
         <h2 class="display" style="font-size:clamp(2rem,3.6vw,2.9rem);margin:14px 0 14px">What Our Customers Say</h2>
-        <p class="lead" style="color:var(--muted)">We're proud of the reputation we've earned across Logan, Brisbane and the Gold Coast. Here's what local drivers, grey nomads and caravanners have to say about Victory.</p>
+        <p class="lead" style="color:var(--muted)">We're proud of the reputation we've built across Logan, Brisbane and the Gold Coast. Here's what local customers have to say about our mechanical work and inspection services.</p>
         <a href="https://www.google.com/search?q=Victory+Auto+Inspections+Logan+Village" target="_blank" rel="noopener" class="btn btn-ghost" style="margin-top:22px">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15 9 22 9.3 17 14 18.5 21 12 17.3 5.5 21 7 14 2 9.3 9 9"/></svg>
           View Our Google Reviews
@@ -322,11 +322,11 @@ const bodyHtml = `
   <div class="cta-checker"></div>
   <div class="wrap">
     <div>
-      <h2 class="display">Ready For Your Inspection?</h2>
-      <p>Book online or call now — we'll bring the approved inspection centre to your door.</p>
+      <h2 class="display">Ready To Get Started?</h2>
+      <p>Book a service, request a quote or call us now — we're ready to help.</p>
     </div>
     <div class="cta-actions">
-      <a href="/contact" class="btn btn-dark btn-lg">Book an Inspection</a>
+      <a href="/contact" class="btn btn-dark btn-lg">Book a Service</a>
       <a href="tel:0416146737" class="btn btn-outline-light btn-lg">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92Z"/></svg>
         0416 146 737
@@ -340,7 +340,7 @@ const bodyHtml = `
     <div class="footer-grid">
       <div class="fbrand">
         <img src="/assets/victory-logo.png" alt="Victory Auto & Inspections">
-        <p>LONGTREND PTY LTD — your approved mobile vehicle inspection centre serving Logan, Brisbane and the Gold Coast. Cars, caravans and trailers, inspected at your door.</p>
+        <p>Victory Auto &amp; Inspections — your local auto services, mechanical repairs and approved on-site inspection specialists serving Logan, Brisbane and the Gold Coast.</p>
         <p style="margin-top:14px;font-size:.86rem;color:var(--muted-light)">ABN 12 083 477 258</p>
       </div>
       <div>
@@ -357,11 +357,11 @@ const bodyHtml = `
       <div>
         <h4>Services</h4>
         <ul class="footer-links">
+          <li><a href="/contact">Mechanical Repairs</a></li>
+          <li><a href="/contact">Auto Servicing</a></li>
+          <li><a href="/contact">Brake &amp; Suspension</a></li>
           <li><a href="/contact">Safety Certificates</a></li>
-          <li><a href="/contact">Roadworthy Certificates</a></li>
-          <li><a href="/contact">Caravan Inspections</a></li>
-          <li><a href="/contact">Trailer Inspections</a></li>
-          <li><a href="/contact">Mobile Inspections</a></li>
+          <li><a href="/contact">On-Site Inspections</a></li>
         </ul>
       </div>
       <div>
@@ -390,8 +390,8 @@ export default function Home(){
   return (
     <>
       <Head>
-        <title>Victory Auto &amp; Inspections | Mobile Vehicle Inspections QLD</title>
-        <meta name="description" content="LONGTREND PTY LTD — approved mobile vehicle inspection centre in Logan Village, QLD. Safety certificates, roadworthy inspections, caravan & trailer inspections. We come to you." />
+        <title>Victory Auto &amp; Inspections | Auto Services, Mechanical &amp; Inspections QLD</title>
+        <meta name="description" content="Victory Auto &amp; Inspections — auto services, mechanical repairs and approved on-site vehicle inspections across South-East Queensland. Logan Village, Brisbane &amp; Gold Coast." />
       </Head>
       <div dangerouslySetInnerHTML={{ __html: bodyHtml }} />
     </>

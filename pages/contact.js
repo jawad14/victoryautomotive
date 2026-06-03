@@ -75,8 +75,8 @@ const bodyHtml = `
   <div class="wrap" style="position:relative;z-index:1">
     <div class="breadcrumb"><a href="/">Home</a><span class="sep">/</span>Contact</div>
     <span class="eyebrow light">Get In Touch</span>
-    <h1 style="margin-top:14px">Book Your Inspection</h1>
-    <p class="lead" style="color:#C9C2B8;margin-top:18px">Call us, message us, or fill out the form below — we'll confirm your mobile inspection and come to you anywhere across South-East Queensland.</p>
+    <h1 style="margin-top:14px">Book a Service or Get a Quote</h1>
+    <p class="lead" style="color:#C9C2B8;margin-top:18px">Call us, message us, or fill out the form below — we'll get back to you promptly for mechanical work, auto servicing or on-site inspections across South-East Queensland.</p>
   </div>
 </section>
 
@@ -173,12 +173,14 @@ const bodyHtml = `
                 <label for="service">Service Required <span class="req">*</span></label>
                 <select id="service" name="service" data-required="text">
                   <option value="">Select a service&#8230;</option>
-                  <option>Car Safety Certificate</option>
+                  <option>Mechanical Repair</option>
+                  <option>Auto Servicing / Logbook Service</option>
+                  <option>Brake &amp; Suspension</option>
+                  <option>Safety Certificate</option>
                   <option>Roadworthy Certificate</option>
-                  <option>Caravan Inspection</option>
-                  <option>Caravan Trailer Inspection</option>
-                  <option>Mobile Inspection &#8212; Other Vehicle</option>
-                  <option>Not Sure / General Enquiry</option>
+                  <option>On-Site Vehicle Inspection</option>
+                  <option>Caravan / Trailer Inspection</option>
+                  <option>General Enquiry</option>
                 </select>
                 <span class="err-msg">Please select a service.</span>
               </div>
@@ -229,8 +231,8 @@ const bodyHtml = `
   <div class="cta-checker"></div>
   <div class="wrap">
     <div>
-      <h2 class="display">We'll Come To You.</h2>
-      <p>Mobile inspections across Logan, Brisbane Southside &amp; the Gold Coast.</p>
+      <h2 class="display">Let's Get You Sorted.</h2>
+      <p>Mechanical work, auto services &amp; on-site inspections across Logan, Brisbane &amp; the Gold Coast.</p>
     </div>
     <div class="cta-actions">
       <a href="#book" class="btn btn-dark btn-lg">Book Online</a>
