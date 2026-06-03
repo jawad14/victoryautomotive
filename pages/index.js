@@ -75,7 +75,7 @@ const bodyHtml = `
       <div>
         <span class="eyebrow light">Auto Services · Mechanical Work · Vehicle Inspections Everywhere</span>
         <h1>Your Local <span class="hl">Auto Experts</span> — Built Around You.</h1>
-        <p class="lead">Victory Auto &amp; Inspections delivers full mechanical services, auto repairs and approved on-site vehicle inspections across South-East Queensland. Professional, reliable and on your schedule.</p>
+        <p class="lead">Victory Auto &amp; Inspections delivers full mechanical services, auto repairs and vehicle inspections across South-East Queensland. Professional, reliable and on your schedule.</p>
         <div class="hero-cta">
           <a href="/contact" class="btn btn-primary btn-lg">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
@@ -336,7 +336,7 @@ export default function Home(){
     <>
       <Head>
         <title>Victory Auto &amp; Inspections | Auto Services, Mechanical &amp; Inspections QLD</title>
-        <meta name="description" content="Victory Auto &amp; Inspections — auto services, mechanical repairs and approved on-site vehicle inspections across South-East Queensland. Logan Village, Brisbane &amp; Gold Coast." />
+        <meta name="description" content="Victory Auto &amp; Inspections — auto services, mechanical repairs and vehicle inspections across South-East Queensland. Logan Village, Brisbane &amp; Gold Coast." />
       </Head>
       <div dangerouslySetInnerHTML={{ __html: bodyHtml }} />
     </>
