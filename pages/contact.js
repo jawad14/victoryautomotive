@@ -32,7 +32,6 @@ const bodyHtml = `
         <li><a href="/#about">About</a></li>
         <li><a href="/#services">Services</a></li>
         <li><a href="/#why">Why Us</a></li>
-        <li><a href="/#reviews">Reviews</a></li>
         <li><a href="/#areas">Service Areas</a></li>
         <li><a href="/contact" class="active">Contact</a></li>
       </ul>
@@ -61,7 +60,6 @@ const bodyHtml = `
   <a href="/#about" class="mlink">About</a>
   <a href="/#services" class="mlink">Services</a>
   <a href="/#why" class="mlink">Why Us</a>
-  <a href="/#reviews" class="mlink">Reviews</a>
   <a href="/#areas" class="mlink">Service Areas</a>
   <a href="/contact" class="mlink">Contact</a>
   <div class="mm-actions">
@@ -178,7 +176,7 @@ const bodyHtml = `
                   <option>Brake &amp; Suspension</option>
                   <option>Safety Certificate</option>
                   <option>Roadworthy Certificate</option>
-                  <option>On-Site Vehicle Inspection</option>
+                  <option>Vehicle Inspection Everywhere</option>
                   <option>Caravan / Trailer Inspection</option>
                   <option>General Enquiry</option>
                 </select>
