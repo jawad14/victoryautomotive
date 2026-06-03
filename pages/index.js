@@ -25,7 +25,7 @@ const bodyHtml = `
   <div class="wrap">
     <nav class="navbar">
       <a href="/" class="brand">
-        <img src="/assets/victory-logo.png" alt="Victory Auto & Inspections">
+        <img src="/assets/logo.png" alt="Victory Auto & Inspections">
       </a>
       <ul class="nav-links">
         <li><a href="/" class="active">Home</a></li>
@@ -51,7 +51,7 @@ const bodyHtml = `
 
 <div class="mobile-menu" id="mobileMenu">
   <div class="mm-top">
-    <img src="/assets/victory-logo.png" alt="Victory Auto & Inspections">
+    <img src="/assets/logo.png" alt="Victory Auto & Inspections">
     <button class="mclose" aria-label="Close menu">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
     </button>
@@ -105,8 +105,8 @@ const bodyHtml = `
 <section class="section" id="about">
   <div class="wrap">
     <div class="about-grid">
-      <div class="about-logo-wrap reveal">
-        <img src="/assets/victory-logo.png" alt="Victory Auto &amp; Inspections" class="about-logo-img">
+      <div class="about-photo-wrap reveal">
+        <img src="/assets/heroimage.png" alt="Victory Auto &amp; Inspections — mechanics at work" class="about-photo-img">
       </div>
       <div class="reveal" data-delay="100">
         <span class="eyebrow">About Victory Auto</span>
@@ -284,7 +284,7 @@ const bodyHtml = `
   <div class="wrap">
     <div class="footer-grid">
       <div class="fbrand">
-        <img src="/assets/victory-logo.png" alt="Victory Auto & Inspections">
+        <img src="/assets/logo.png" alt="Victory Auto & Inspections">
         <p>Victory Auto &amp; Inspections — your local auto services, mechanical repairs and approved on-site inspection specialists serving Logan, Brisbane and the Gold Coast.</p>
         <p style="margin-top:14px;font-size:.86rem;color:var(--muted-light)">ABN 12 083 477 258</p>
       </div>
